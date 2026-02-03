@@ -1,5 +1,13 @@
 # One-Shot Learning Approach for Underwater Inspection Image Classification
 
+# [ENG1133] Undergraduate Thesis
+* **Course:** ENG1133
+* **Semester:** 2025.2
+* **Supervisor:** Marco Aurélio Pacheco
+* **Co-supervisor:** Manoela Kohler
+* **Group Members:**
+  * Pedro Gabriel Serodio Sales
+
 ## About the Project
 This project was developed as part of the **Undergraduate Thesis** in Computer Engineering.
 The goal is to **classify underwater** images obtained from inspections performed by **ROVs (Remotely Operated Vehicles)** using a **One-Shot Learning** approach based on **Siamese Networks**.  
